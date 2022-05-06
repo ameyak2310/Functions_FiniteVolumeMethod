@@ -5,14 +5,14 @@ the Finite Volume Method" by Versteeg, H.K. and Malalasekera, W. (1995).
 
 Folders within Repositories hosts
 #1 1D Heat trasnfer: 
--- Basic 1D Conduction
--- 1D Conduction with heat generation
--- 1D Conduction with convective heat loss
+1) Basic 1D Conduction
+2) 1D Conduction with heat generation
+3) 1D Conduction with convective heat loss
       
 #2 1D Convection Diffusion:
--- Central Difference Scheme
--- Upwind Difference Scheme
--- Hybrid Difference Scheme
+1) Central Difference Scheme
+2) Upwind Difference Scheme
+3) Hybrid Difference Scheme
 
 #3 1D TDMA
 #4 2D TDMA
