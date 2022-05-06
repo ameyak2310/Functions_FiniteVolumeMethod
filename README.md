@@ -17,3 +17,6 @@ Folders within Repositories hosts
 #3 1D TDMA
 #4 2D TDMA
 #5 1D SIMPLE
+
+*** Citation: Some of the codes in numerical methods libraries are borrowed from Dr. John T. Foster's "Numerical Methods and Programming" course material.
+*** Link: https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro.html
