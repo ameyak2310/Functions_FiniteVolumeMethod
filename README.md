@@ -14,9 +14,10 @@ the Finite Volume Method](https://books.google.co.in/books/about/An_Introduction
   - Upwind Difference Scheme
   - Hybrid Difference Scheme
 
+- 1D SIMPLE
 - 1D TDMA
 - 2D TDMA
-- 1D SIMPLE
+
 
 ## Citations 
 Some of the codes in numerical methods libraries are borrowed from [Dr. John T. Foster's "Numerical Methods and Programming" course material](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro.html).
