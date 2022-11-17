@@ -1,6 +1,6 @@
 # Finitine Volume Functions for heat trasnfer problems
 
-This repository host functions used for solving 1D and 2D heat trasnfer problems from a the text book "[An Introduction to Computational Fluid Dynamics 
+This repository hosts functions used for solving 1D and 2D heat trasnfer problems from a the text book "[An Introduction to Computational Fluid Dynamics 
 the Finite Volume Method](https://books.google.co.in/books/about/An_Introduction_to_Computational_Fluid_D.html?id=NbYmEAAAQBAJ&redir_esc=y)" by Versteeg, H.K. and Malalasekera, W. (1995) .
 
 ## Contents
