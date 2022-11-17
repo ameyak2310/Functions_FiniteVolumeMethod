@@ -1,22 +1,22 @@
-# fvmFunctions
+# Finitine Volume Functions for heat trasnfer problems
 
-This repository host functions used for solving 1D heat trasnfer problems from a the text book "An Introduction to Computational Fluid Dynamics 
-the Finite Volume Method" by Versteeg, H.K. and Malalasekera, W. (1995).
+This repository host functions used for solving 1D and 2D heat trasnfer problems from a the text book "[An Introduction to Computational Fluid Dynamics 
+the Finite Volume Method](https://books.google.co.in/books/about/An_Introduction_to_Computational_Fluid_D.html?id=NbYmEAAAQBAJ&redir_esc=y)" by Versteeg, H.K. and Malalasekera, W. (1995) .
 
-Folders within Repositories hosts
-1. 1D Heat trasnfer: 
-1.1) Basic 1D Conduction
-1.2) 1D Conduction with heat generation
-1.3) 1D Conduction with convective heat loss
+## Contents
+
+- 1D Heat trasnfer
+  - Basic 1D Conduction
+  - 1D Conduction with heat generation
+  - 1D Conduction with convective heat loss
       
-2. 1D Convection Diffusion:
-2.1) Central Difference Scheme
-2.2) Upwind Difference Scheme
-2.3) Hybrid Difference Scheme
+- 1D Convection Diffusion:
+  - Upwind Difference Scheme
+  - Hybrid Difference Scheme
 
-3. 1D TDMA
-4. 2D TDMA
-5. 1D SIMPLE
+- 1D TDMA
+- 2D TDMA
+- 1D SIMPLE
 
-*** Citation: Some of the codes in numerical methods libraries are borrowed from Dr. John T. Foster's "Numerical Methods and Programming" course material.
-*** Link: https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro.html
+## Citations 
+Some of the codes in numerical methods libraries are borrowed from [Dr. John T. Foster's "Numerical Methods and Programming" course material](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro.html).
